@@ -1,0 +1,90 @@
+h1 {
+  text-transform: uppercase;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+
+p{font-family: 'Open Sans', sans-serif;}
+
+h2{font-family: 'Open Sans', sans-serif;}
+
+.Welcome-block {
+  background-image: url("http://previews.123rf.com/images/woottigon/woottigon1507/woottigon150700045/43074009-Work-space-for-photographer-designer-or-hipster-style-Have-a-laptop-film-camera-film-speaker-glasses-Stock-Photo.jpg");
+  color: white;
+}
+
+
+button{
+    background-color: #03b196;
+    border: none;
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 10px;
+    box-shadow: 0 4px #02967f;
+    text-transform: uppercase;
+    display: table;
+    margin: 0 auto
+}
+
+button:hover {background-color: #02967f}
+
+button:active {
+  background-color: #02967f;
+  box-shadow: 0 5px #02967f;
+  transform: translateY(4px);
+}
+
+.Logo {
+  text-align: left;
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+}
+
+.Menu {
+  color: white;
+  text-transform: uppercase;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.Welcome-headings {text-align: center;}
+
+.Download-cv-button {
+  align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.Arrow {align-items: center;}
+
+About-me h1, img {
+  text-align: center;
+}
+
+.About-me p {
+  align-content: left;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.Testimonials {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.Get-in-touch{
+  background-image: url("http://upload.wikimedia.org/wikipedia/commons/6/60/Plac_Zamkowy_w_Warszawie_widziany_z_wie%C5%BCy_ko%C5%9Bcio%C5%82a_%C5%9Bw._Anny.JPG");
+  color: white;
+}
+
+.Media{
+  display: flex; 
+  justify-content: center;
+}
+
+footer{
+  background-color:#290e37
+}
+
+footer p{
+  color: white;
+}
